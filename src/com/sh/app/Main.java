@@ -14,5 +14,9 @@ public class Main {
 		new Cat().jump();
 		new Lion().attack();
 	}
+	
+	public void test() { 
+		 System.out.println("Main#test");
+	}
 
 }
