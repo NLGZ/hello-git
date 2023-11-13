@@ -12,7 +12,9 @@ public class Main {
 		System.out.println("Hello world");
 		System.out.println("Hello git");
 		
+
 		System.out.println("동물기능 시작~");
+		System.out.println("Animal Go~");		
 		new Dog().bark();
 		new Cat().jump();
 		new Lion().attack();
