@@ -7,8 +7,8 @@ import com.sh.app.animal.Lion;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
-		System.out.println("Hello git");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO GIT");
 		
 		new Dog().bark();
 		new Cat().jump();
